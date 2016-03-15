@@ -21,3 +21,5 @@
 
 ### email recieved 
 * Thank you for signing up! Please confirm your email address by clicking this link, you'll be prompted to take a webcam shot to confirm your identity
+
+* social sharing, "you signed up! / donated, now tell this to your friends on twitter, FB, etc."
